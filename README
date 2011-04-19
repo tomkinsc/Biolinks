@@ -1,0 +1,7 @@
+This is the Biolinks extension for Google Chrome.
+It can parse a website and highlight relevant biolinks.
+
+What is a Biolink? It's an identifier that describes a piece of information in a biological database.
+
+What functionality does the Biolinks extension provide?
+The extension transforms plaintext Biolink IDs into rich links that point to database pages at the NCBI and elsewhere.
