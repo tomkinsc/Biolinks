@@ -5,3 +5,7 @@ What is a Biolink? It's an identifier that describes a piece of information in a
 
 What functionality does the Biolinks extension provide?
 The extension transforms plaintext Biolink IDs into rich links that point to database pages at the NCBI and elsewhere.
+
+Biolinks currently recognizes the following identifiers:
+
+* SNPs (ex. rs6152)
